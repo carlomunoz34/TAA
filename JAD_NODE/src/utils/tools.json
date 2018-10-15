@@ -1,0 +1,62 @@
+{
+  "0": {
+    "Q": "¿Qué es lo que utilizan para unit testing?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "1": {
+    "Q": "¿Se cuenta con un ambiente y un plan de pruebas?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "2": {
+    "Q": "¿Para la realización de las pruebas utilizan datos sondeados o los toman directo de los clientes o de la prueba a realizar?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "3": {
+    "Q": "¿Existen planes o métodos de contingencia cuando un proceso de sale de control o causa estragos?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "4": {
+    "Q": "¿Cuál es su indicador para realizar software testing?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "5": {
+    "Q": "¿Con qué estándares miden sus pruebas de software?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "6": {
+    "Q": "¿Conocen el concepto de base de datos SQL y no SQL?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "7": {
+    "Q": "¿Qué lenguajes de programación o softwares utilizan para sus procesos?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "8": {
+    "Q": "¿Las herramientas con las que se cuentan son interactivas?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "9": {
+    "Q": "¿Cómo modelan sus procesos UML o BPMM o alguna otra?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+}

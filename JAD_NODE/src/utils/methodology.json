@@ -1,0 +1,62 @@
+{
+  "0": {
+    "Q": "¿Qué proceso de automatización de pruebas utilizan?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "1": {
+    "Q": "¿Siempre ha usado tecnologías para el software testing o ha utilizado procesos rudimentarios?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "2": {
+    "Q": "¿Se le dedica el tiempo necesario a las pruebas?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "3": {
+    "Q": "¿Conoce la documentación de Business Process Management?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "4": {
+    "Q": "¿Sus procesos están documentados en cuestión de calidad con cierta metodología?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "5": {
+    "Q": "¿Sus procesos trabajan de forma secuencial o hay procesos que siguen rutas dependiendo factores o decisiones?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "6": {
+    "Q": "¿Hay situaciones que producen paros totales de todos los procesos?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "7": {
+    "Q": "¿Sus procesos cuentan con una estructura fiable?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "8": {
+    "Q": "¿Cuál es el tiempo de vida estimado de sus procesos?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "9": {
+    "Q": "¿Los procesos de su empresa se apegan a algún estándar internacional, o a alguna metodología en específico?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+}

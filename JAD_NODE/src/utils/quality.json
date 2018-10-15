@@ -1,0 +1,62 @@
+{
+  "0": {
+    "Q": "¿Al implementar un nuevo proceso o actualización se le dedica el tiempo necesario para ser probados y de ser así qué porcentaje de esos procesos son probados?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "1": {
+    "Q": "¿Sus procesos están directamente relacionados con otros o son en su mayoría son independientes?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "2": {
+    "Q": "¿Hay rúbricas o estándares que utilizan para evaluar sus pruebas, de ser así cuáles?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "3": {
+    "Q": "¿Una vez realizadas las pruebas, están documentadas?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "4": {
+    "Q": "¿Tiene un histórico sobre los cambios en los procesos y en la documentación si es que hay una?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "5": {
+    "Q": "¿Cuentan con personal dedicado para las pruebas?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "6": {
+    "Q": "¿Hay alguna forma para saber cuando un proceso o producto es de calidad?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "7": {
+    "Q": "En caso de que un producto o servicio no cumpla con los estándares de calidad, ¿cuál es el procedimiento a seguir?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "8": {
+    "Q": "¿Se cuentan con medidas adecuadas para determinar la calidad de los productos, y saber si es calidad baja, media o alta ?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+  "9": {
+    "Q": "¿Se cumplen con normas internacionales como ISO 9001:2015 ?",
+    "A": [],
+    "N": [],
+    "T": 0
+  },
+}
